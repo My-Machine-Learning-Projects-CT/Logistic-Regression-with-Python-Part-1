@@ -30,4 +30,5 @@ Roughly 20 percent of the Age data is missing. The proportion of Age missing is 
 avg / total       0.82      0.82      0.81       267
 
 
+
 Reference Material:https://www.udemy.com/share/101WaUB0scc1dQR34=/

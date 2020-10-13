@@ -19,6 +19,7 @@ Roughly 20 percent of the Age data is missing. The proportion of Age missing is 
 ![image](https://user-images.githubusercontent.com/48589838/77819007-80503b80-70fd-11ea-9faf-b8d27ddf6434.png)
 
 
+
  precision    recall  f1-score   support
 
           0       0.81      0.93      0.86       163

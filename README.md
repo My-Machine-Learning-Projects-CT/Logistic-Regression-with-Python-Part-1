@@ -3,6 +3,7 @@
  Analyse the Titanic Data Set from Kaggle and  predict a classification- survival or deceased
 
 
+
 ![image](https://user-images.githubusercontent.com/48589838/77818982-526af700-70fd-11ea-971c-b86bac026513.png)
 
 

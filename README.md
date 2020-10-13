@@ -9,6 +9,7 @@
 
 Roughly 20 percent of the Age data is missing. The proportion of Age missing is likely small enough for reasonable replacement with some form of imputation. Looking at the Cabin column, it looks like we are just missing too much of that data to do something useful with at a basic level. We'll probably drop this later, or change it to another feature like "Cabin Known: 1 or 0"
 
+
 ![image](https://user-images.githubusercontent.com/48589838/77818993-66165d80-70fd-11ea-8d0e-b18b8f9b6fda.png)
 
 ![image](https://user-images.githubusercontent.com/48589838/77818997-6ca4d500-70fd-11ea-86fd-9e7ea3d4e5a3.png)
